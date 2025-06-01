@@ -1,0 +1,12 @@
+{
+  "main": "index.html",
+  "logo": "logo.png",
+  "preload": "preload.js",
+  "features": [
+    {
+      "code": "coderunner",
+      "explain": "运行代码",
+      "cmds": ["coderunner", "运行代码"]
+    }
+  ]
+}
